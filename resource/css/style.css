@@ -371,6 +371,31 @@ cite img{
   margin: 10px auto;
 }
 
+
+/************************************************************/
+/**COLLABORATION FORM SECTION**/
+/************************************************************/
+.collabform-form{
+  margin: 2px solid black;
+  border-radius: 40px;
+  padding-top: 40px;
+}
+.collabform h2{
+  font-weight: 374;
+
+}
+.collabform .Input{
+        width: 250px;
+        height: 30px;
+        border-color: darkorange;
+        border-radius: 25px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+}
+.collabform .subbtn:hover{
+  background-color: black;
+  color:white;
+}
 /************************************************************/
 /**FEATURE SECTION**/
 /************************************************************/
